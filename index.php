@@ -103,7 +103,7 @@
                         aria-expanded="false"
                         aria-controls="ejercicio-colapsable">
                         <i class="bi bi-journal-check"></i>
-                        Ver ejercicio resuelto (opcional)
+                        3 ejercicio resuelto guia de fisica
                         <i class="bi bi-chevron-down toggle-caret"></i>
                     </button>
                 </div>
