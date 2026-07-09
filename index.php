@@ -95,7 +95,7 @@
 
                 <!-- Botón para mostrar el ejercicio (opcional) -->
                 <div class="ejercicio-cta mt-4">
-                    <i class="bi bi-arrow-right-circle-fill neon-arrow neon-arrow-izq"></i>
+                    <i class="bi bi-arrow-right neon-arrow neon-arrow-izq"></i>
                     <button
                         class="btn btn-toggle-ejercicio"
                         type="button"
@@ -107,7 +107,7 @@
                         3 ejercicio resuelto guia de fisica
                         <i class="bi bi-chevron-down toggle-caret"></i>
                     </button>
-                    <i class="bi bi-arrow-left-circle-fill neon-arrow neon-arrow-der"></i>
+                    <i class="bi bi-arrow-left neon-arrow neon-arrow-der"></i>
                 </div>
 
                 <!-- Ejercicio resuelto -->
